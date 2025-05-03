@@ -1,2 +1,4 @@
 puppeteer_data/
 dist/
+node_modules/
+.yarn/
